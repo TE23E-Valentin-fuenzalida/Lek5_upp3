@@ -35,7 +35,7 @@ a{
     display: flex;
     flex-direction: column;
 
-    background-image: url(/img/showcase\ \(3\).jpg);
+    background-image: url("./img/showcase\ \(3\).jpg");
     background-position: 0px;
     background-size: 150%;
 
